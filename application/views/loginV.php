@@ -7,11 +7,12 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
         <title>Login</title>
         <style>
             body {
-                background-image: url(assets/img/whatre.jpeg);
-
+                background-image: url(assets/img/loog.png);
+                height : 100%;
                 /* Center and scale the image nicely */
                 background-position: center;
                 background-repeat: no-repeat;
@@ -124,7 +125,7 @@
             <div class="card">
                 <form>
                     <h3>WELCOME TO</h3>
-                    <center><img src="assets/img/logoutama.jpeg" width="130" height="50"></center>
+                    <center><img src="assets/img/logohelp1.png" width="130" height="50"></center>
                     <h4><center>Log in to use our features that might help you!</center></h4>
                     <input type="Username" id="myUname" placeholder="Username">
                     <input type="password" id="myPsw" placeholder="Password">
@@ -152,7 +153,7 @@
                     <center><h4>Or</h4></center>
                     <center><h4>Continue with Google Account</h4></center>
                     <div class="row">
-                            <div class="col-md-12"> <a class="btn btn-lg btn-google btn-block text-uppercase btn-outline" href="#"><img src="assets/img/google.png" style="width: 40px;"></a> </div>
+                            <div class="col-md-12"> <a class="btn btn-lg btn-google btn-block text-uppercase btn-outline" href="#"><img src="assets/img/Icon Google.png" style="width: 40px;"></a> </div>
                     </div> <br>
                 </form>
             </div>

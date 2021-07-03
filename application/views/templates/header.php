@@ -2,7 +2,7 @@
 <html lang="en">
 <style>
     .nav1
-        {font-family: Segoe UI; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; color: #FFFFFF;}
+        {font-family: 'Segoe UI'; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; color: #FFFFFF;}
 </style>
 <head>
     <!-- Required meta tags -->
@@ -26,7 +26,7 @@
         <div class="container">
             <div class="text-left" class="collapse navbar-collapse">
                 <div class="navbar-nav">
-                    <a class="nav-item nav-link" href="#"><img src="assets/img/logoutama.jpeg" width="80" height="30"></a>
+                    <a class="nav-item nav-link" href="#"><img src="assets/img/logohelp1.png" width="80" height="30"></a>
                 </div>
             </div>
             <div class="text-center" id="navbarNavAltMarkup">

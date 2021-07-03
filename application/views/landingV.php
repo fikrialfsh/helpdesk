@@ -144,7 +144,7 @@
         <!-- Sidebar -->
         <nav id="sidebar">
                 <div class="sidebar-header">
-                    <center><img src="assets/img/logoutama.jpeg" width="130" height="50"></center>
+                    <center><img src="assets/img/logohelp3.png" width="130" height="50"></center>
                 </div>
 
                 <ul class="list-unstyled components">
